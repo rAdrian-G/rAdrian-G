@@ -160,7 +160,15 @@ interactivity and user experience.
 <!-- CONTACT -->
 <!-- ================================================== -->
 
-# 06 / CONNECT_
+# 06 / My GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rAdrian-G&custom_title=Adrian%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=rAdrian-G&custom_title=Adrian%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=synthwave)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rAdrian-G&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=rAdrian-G&langs_count=4&theme=synthwave)
+
+---
+
+
+# 07 / CONNECT_
 
 <p align="left">
   <a href="www.linkedin.com/in/adrian-roberti-6901823b8">
