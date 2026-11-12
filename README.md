@@ -50,7 +50,6 @@ web technologies.
 **My approach:** build, experiment, understand and improve.
 
 ---
----
 
 # 02 / LANGUAGES_
 
@@ -171,7 +170,7 @@ interactivity and user experience.
 # 07 / CONNECT_
 
 <p align="left">
-  <a href="www.linkedin.com/in/adrian-roberti-6901823b8">
+  <a href="https://www.linkedin.com/in/adrian-roberti-6901823b8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adrian.robertigarcia@gmail.com">
