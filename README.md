@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:100624,100:4C1D95&height=190&section=header&text=SOFTWARE%20DEVELOPMENT&fontColor=EDE7F6&fontSize=38&fontAlignY=42&animation=fadeIn"
+    src="img/Adrian Roberti Garcia.png"
     width="100%"
   />
 </p>
