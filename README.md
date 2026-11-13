@@ -118,18 +118,23 @@ Cloud Firestore, Firebase Hosting.
 **Focus:** Web development, database integration,
 data management and user experience.
 
+[USE CASE REPO](https://github.com/rAdrian-G/via-case-study)
+
 ---
 
-### [02] PERSONAL WEB PROJECTS
+### [02] WEB PRESENT - Lilies
 
-A collection of personal experiments involving
-HTML, CSS and JavaScript, including an interactive
-birthday website.
+A little web project made by me in order to gift my
+girlfriend in her birthday. Interactive web page,
+with multiple letters and cutesy stuff. She loved it,
+then the site is perfect.
 
 **Focus:** Frontend development, visual design,
-interactivity and user experience.
+interactivity and user experience (and putting a
+smile in my girlfriend's face).
 
-[REPOSITORY](https://github.com/rAdrian-G/connor.ai)
+As we say here in Brasil,
+[A flower for my flower](https://lirios-5d60b.web.app/)
 
 ---
 
@@ -140,11 +145,13 @@ interactivity and user experience.
 # 05 / CURRENTLY LEARNING_
 
 ```text
-[01] REACT
-     Component-based frontend development.
+[01] AI and automation
+     Python, API's, voice synthesis and
+     personal agents/chatbots.
 
-[02] TAILWIND CSS
-     Utility-first CSS and modern styling workflows.
+[02] Design
+     But like, really learning. UX/UI, responsiveness,
+     all that cool stuff
 
 [03] GIT & GITHUB
      Version control and collaborative development.
@@ -152,6 +159,13 @@ interactivity and user experience.
 [04] SOFTWARE ENGINEERING
      Strengthening programming fundamentals,
      architecture and development practices.
+
+[05] Data and Analysis
+     Pandas, Excel, Javascript csv/xlsx integration,
+     dashboards and graph reading
+
+[06] To love
+     Always learning how to love better. 
 ```
 ---
 
@@ -188,5 +202,5 @@ interactivity and user experience.
 </p>
 
 <p align="center">
-  <sub>BUILDING TODAY. IMPROVING TOMORROW.</sub>
+  <sub>Study study study. I'm getting crazy ablulululu.</sub>
 </p>
